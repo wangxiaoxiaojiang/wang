@@ -10,8 +10,8 @@
 "user": ["oF5as5184mB0y7D9u-402Dwfezl8"],
 
 # 信息配置
-# 天行数据apikey
-"tian_api": "aa2367e2c135d7379482c008c5de7d713 ",
+# 土味情话
+"tian_api": "a2367e2c135d7379482c008c5de7d713 ",
 # 和风天气apikey
 "weather_key": "1d910d48ddc64636b212f1d663e6a018",
 # 天行数据apikey
