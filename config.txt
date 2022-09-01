@@ -11,12 +11,16 @@
 
 # 信息配置
 # 土味情话
+"def get_lovelive_info(self):
+    '''
+    从土味情话中获取每日一句。
+    '''
     resp = requests.get("https://api.lovelive.tools/api/SweetNothings")
     if resp.status_code == 200:
         return resp.text + "\n"
     else:
         print('每日一句获取失败')
-        return None
+        return None"
 # 和风天气apikey
 "weather_key": "1d910d48ddc64636b212f1d663e6a018",
 # 天行数据apikey
