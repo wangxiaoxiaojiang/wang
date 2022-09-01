@@ -10,10 +10,7 @@
 "user": ["oF5as5184mB0y7D9u-402Dwfezl8"],
 
 # 信息配置
-#def get_lovelive_info(self):
-    '''
-    从土味情话中获取每日一句。
-    '''
+# 土味情话
     resp = requests.get("https://api.lovelive.tools/api/SweetNothings")
     if resp.status_code == 200:
         return resp.text + "\n"
