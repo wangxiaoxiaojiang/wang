@@ -11,7 +11,7 @@
 
 # 信息配置
 #情话
-"saylove":"www.usaylove.com"
+"saylove":"我爱你"
 # 和风天气apikey
 "weather_key": "1d910d48ddc64636b212f1d663e6a018",
 # 天行数据apikey
